@@ -9,11 +9,11 @@ Remember, when animating that you are animating for 60fps, aka 16-17ms per frame
 
 
 ## Mod sprites location
-🗜️MOD.ZIP  
-📁-**Modname** 
-📁--Overwrites  (*Folder*)
-📁---Ninja  *<- Character you want to re-sprite
-📁----Dash  *<- Skill name*
+🗜️MOD.ZIP   
+📁-**Modname**  
+📁--Overwrites  (*Folder*)  
+📁---Ninja  *<- Character you want to re-sprite  
+📁----Dash  *<- Skill name*  
 🖼️-----1.png *<- First frame of Dash Animation*  
 🖼️-----2.png  
 📁----Wait  

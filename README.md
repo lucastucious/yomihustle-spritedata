@@ -9,13 +9,13 @@ Remember, when animating that you are animating for 60fps, aka 16-17ms per frame
 
 
 ## Mod sprites location
-ZIP
-|-File Name
-|--Overwrites
-|---Ninja
-|----Dash
-|-----1.png *<- First frame of Dash Animation*
-|-----2.png
-|----Wait
-|-----1.png
-|-----2.png
+ZIP  
+|-File Name  
+|--Overwrites  
+|---Ninja  
+|----Dash  
+|-----1.png *<- First frame of Dash Animation*  
+|-----2.png  
+|----Wait  
+|-----1.png  
+|-----2.png  
